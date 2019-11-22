@@ -1,7 +1,7 @@
 var wms_layers = [];
 
         var lyr_OpenStreetMapmonochrome_0 = new ol.layer.Tile({
-            'title': 'OpenStreetMap monochrome',
+            'title': 'OpenStreet',
             'type': 'base',
             'opacity': 1.000000,
             
